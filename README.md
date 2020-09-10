@@ -29,4 +29,10 @@ A list of FOSS game engines by programming language. GDNative is not included be
 - (Away3D)[https://github.com/openfl/away3d]
 - (HeapsIO)[https://github.com/HeapsIO/heaps]
 
-
+# JS
+- (Phaser)[https://github.com/photonstorm/phaser]
+- (MelonJS)[https://github.com/melonjs/melonJS]
+- (Kiwi.js)[https://github.com/gamelab/kiwi.js]
+- (Crafty)[https://github.com/craftyjs/Crafty]
+- (Stage.js)[https://github.com/shakiba/stage.js]
+- (Ct.js)[https://github.com/ct-js/ct-js]
