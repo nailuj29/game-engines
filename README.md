@@ -15,3 +15,7 @@ A list of FOSS game engines by programming language. GDNative is not included be
 - [Amethyst](https://github.com/amethyst/amethyst)
 - [Bevy](https://github.com/bevyengine/bevy)
 
+# Lua
+- (Amulet)[https://github.com/ianmaclarty/amulet]
+- (LÖVE)[https://github.com/love2d/love]
+- (Cafu)[https://bitbucket.org/cafu/cafu/src/master/]
