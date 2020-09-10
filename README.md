@@ -34,7 +34,7 @@ A list of FOSS game engines by programming language. GDNative is not included be
 - [HaxeFlixel](https://github.com/HaxeFlixel/flixel)
 - [HaxePunk](https://github.com/HaxePunk/HaxePunk)
 - [Away3D](https://github.com/openfl/away3d)
-- [HeapsIO](https://github.com/HeapsIO/heaps]
+- [HeapsIO](https://github.com/HeapsIO/heaps)
 
 # Javascript
 - [Phaser](https://github.com/photonstorm/phaser)
