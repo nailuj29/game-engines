@@ -19,3 +19,14 @@ A list of FOSS game engines by programming language. GDNative is not included be
 - (Amulet)[https://github.com/ianmaclarty/amulet]
 - (LÖVE)[https://github.com/love2d/love]
 - (Cafu)[https://bitbucket.org/cafu/cafu/src/master/]
+
+# Haxe
+- (Gengine)[https://github.com/gogoprog/gengine]
+- (Kha)[https://github.com/Kode/Kha]
+- (openfl)[https://github.com/openfl/openfl]
+- (HaxeFlixel)[https://github.com/HaxeFlixel/flixel]
+- (HaxePunk)[https://github.com/HaxePunk/HaxePunk]
+- (Away3D)[https://github.com/openfl/away3d]
+- (HeapsIO)[https://github.com/HeapsIO/heaps]
+
+
