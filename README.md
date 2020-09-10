@@ -1,6 +1,13 @@
 # game-engines
 A list of FOSS game engines by programming language. GDNative is not included because there are so many languages it supports
 
+# Table Of Contents
+- [Golang](#golang)
+- [Rust](#rust)
+- [Lua](#lua)
+- [Haxe](#haxe)
+- [JS](#javascript)
+
 # Golang
 - [Ebiten](https://github.com/hajimehoshi/ebiten)
 - [Engo](https://github.com/EngoEngine/engo)
@@ -16,23 +23,23 @@ A list of FOSS game engines by programming language. GDNative is not included be
 - [Bevy](https://github.com/bevyengine/bevy)
 
 # Lua
-- (Amulet)[https://github.com/ianmaclarty/amulet]
-- (LÖVE)[https://github.com/love2d/love]
-- (Cafu)[https://bitbucket.org/cafu/cafu/src/master/]
+- [Amulet](https://github.com/ianmaclarty/amulet)
+- [LÖVE](https://github.com/love2d/love)
+- [Cafu](https://bitbucket.org/cafu/cafu/src/master/)
 
 # Haxe
-- (Gengine)[https://github.com/gogoprog/gengine]
-- (Kha)[https://github.com/Kode/Kha]
-- (openfl)[https://github.com/openfl/openfl]
-- (HaxeFlixel)[https://github.com/HaxeFlixel/flixel]
-- (HaxePunk)[https://github.com/HaxePunk/HaxePunk]
-- (Away3D)[https://github.com/openfl/away3d]
-- (HeapsIO)[https://github.com/HeapsIO/heaps]
+- [Gengine](https://github.com/gogoprog/gengine)
+- [Kha](https://github.com/Kode/Kha)
+- [openfl](https://github.com/openfl/openfl)
+- [HaxeFlixel](https://github.com/HaxeFlixel/flixel)
+- [HaxePunk](https://github.com/HaxePunk/HaxePunk)
+- [Away3D](https://github.com/openfl/away3d)
+- [HeapsIO](https://github.com/HeapsIO/heaps]
 
-# JS
-- (Phaser)[https://github.com/photonstorm/phaser]
-- (MelonJS)[https://github.com/melonjs/melonJS]
-- (Kiwi.js)[https://github.com/gamelab/kiwi.js]
-- (Crafty)[https://github.com/craftyjs/Crafty]
-- (Stage.js)[https://github.com/shakiba/stage.js]
-- (Ct.js)[https://github.com/ct-js/ct-js]
+# Javascript
+- [Phaser](https://github.com/photonstorm/phaser)
+- [MelonJS](https://github.com/melonjs/melonJS)
+- [Kiwi.js](https://github.com/gamelab/kiwi.js)
+- [Crafty](https://github.com/craftyjs/Crafty)
+- [Stage.js](https://github.com/shakiba/stage.js)
+- [Ct.js](https://github.com/ct-js/ct-js)
