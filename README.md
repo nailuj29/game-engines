@@ -7,6 +7,7 @@ A list of FOSS game engines by programming language. GDNative is not included be
 - [Lua](#lua)
 - [Haxe](#haxe)
 - [JS](#javascript)
+- [Python](#python)
 
 # Golang
 - [Ebiten](https://github.com/hajimehoshi/ebiten)
@@ -43,3 +44,8 @@ A list of FOSS game engines by programming language. GDNative is not included be
 - [Crafty](https://github.com/craftyjs/Crafty)
 - [Stage.js](https://github.com/shakiba/stage.js)
 - [Ct.js](https://github.com/ct-js/ct-js)
+
+# Python
+- [pygame](https://github.com/pygame/pygame)
+- [panda3d](https://github.com/panda3d/panda3d)
+- [Pygame Zero](https://github.com/lordmauve/pgzero)
